@@ -7,9 +7,8 @@ biopython
 opencv-python-headless
 pillow
 scipy
-os
 pickle
 subprocess
-base64
+
 
 
