@@ -4,3 +4,11 @@ numpy==1.19.5
 scikit-learn==0.24.2
 matplotlib
 biopython
+cv2
+PIL
+base64
+uuid
+scipy
+subprocess
+io
+
